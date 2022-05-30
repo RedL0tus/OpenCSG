@@ -8,6 +8,7 @@
 
 #include <assert.h>
 #include <stdio.h>
+#include <string.h>
 
 void Reshape(int w, int h);
 
